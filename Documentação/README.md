@@ -1,1 +1,1 @@
-Documentação de apresentação do projeto em PDF e artigo em docx
+Documentação de apresentação do projeto em docx
